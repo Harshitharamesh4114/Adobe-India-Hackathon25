@@ -1,0 +1,17 @@
+[
+  {
+    "keyword": "reaction",
+    "page": 1,
+    "snippet": "The rate of a chemical reaction depends on the concentration of reactants..."
+  },
+  {
+    "keyword": "mechanism",
+    "page": 2,
+    "snippet": "The SN1 mechanism proceeds via a carbocation intermediate..."
+  },
+  {
+    "keyword": "activation energy",
+    "page": 2,
+    "snippet": "Activation energy is the minimum energy needed for a reaction to proceed..."
+  }
+]
