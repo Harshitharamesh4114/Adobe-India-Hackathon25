@@ -1,0 +1,17 @@
+[
+  {
+    "keyword": "methodologies",
+    "page": 1,
+    "snippet": "This paper compares multiple methodologies for learning molecular representations using graph neural networks..."
+  },
+  {
+    "keyword": "datasets",
+    "page": 2,
+    "snippet": "Three primary datasets were used including MoleculeNet, ZINC, and QM9..."
+  },
+  {
+    "keyword": "performance",
+    "page": 3,
+    "snippet": "Performance was evaluated using metrics like ROC-AUC and mean absolute error..."
+  }
+]
